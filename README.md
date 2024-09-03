@@ -1,4 +1,4 @@
-# H1 Answers:
+## Answers:
 
 **a.**
   It checks if two arrays are equal. It does this by comparing the length of the arrays and each corresponding element in the arrays. 
